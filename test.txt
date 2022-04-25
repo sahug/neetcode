@@ -1,0 +1,10 @@
+2 Pointer: 2 Pointers point to different index in an array or list. Both pointers move as per the given condition l < r or r > l. 
+Left pointer index is less that right pointer index or  right pointer index is greater than left pointer index. 
+This condition avaoid the 2 pointers from overlapping and duplication of reading the same indices.
+
+Sliding Window: Here also we have 2 pointers. They both initially points to the same index, start of the array or list. 
+The right pointer moves and stops at a certain index based on the condition of the problem, and then the left pointer slides to new index. 
+Hence inacting a sliding window. In any given time the left index will be less than the right index. 
+
+Stack and Queue: We usually rely on empting the stack or queues in these problems. 
+We check when the stack or a queue is empty to stop the funtion or method and return the results.
